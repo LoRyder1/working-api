@@ -17,7 +17,6 @@ class TasksController < ApplicationController
 
   # POST /tasks
   # POST /tasks.json
-  # curl -H "Content-Type:application/json; charset=utf-8" -d "'task':{'title':'something to do','order':1,'completed':false}" http://localhost:3000/tasks
   # curl -d "task[title]=something to do" -d "task[order]=1" http://localhost:3000/tasks
 
 

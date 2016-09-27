@@ -12,6 +12,10 @@ gem 'sqlite3'
 
 gem 'active_model_serializers'
 
+gem 'jbuilder'
+
+gem 'kaminari'
+
 
 
 
